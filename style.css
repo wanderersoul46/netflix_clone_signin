@@ -1,0 +1,74 @@
+*{
+    background-color: black;
+    color: white;
+}
+.logo{
+    color: red;
+    font-weight: 900;
+    text-align: left;
+    margin-left: 50px;
+}
+.main{
+    
+    background-size: cover;
+
+    background-position: center;
+    position: relative;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 80px;
+    font-weight: bold;
+    font-stretch: expanded;
+    
+}
+h2,h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+button{
+    width: 200px;
+    height: 60px;
+    background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+input{
+    width: 25%;
+    padding: 15px;
+    margin-left: 35%;
+    margin-top: 10px;
+    border: 1px solid white;
+    display: inline-block;
+}
+
+nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-size:xx-large ;
+    margin-top: 20%;
+    margin-left: 20%;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    width: 550px;
+    margin-left: 20%;
+}
+
+.third{
+    margin-left: 50%;
+    background-color: black;
+    
+}
+.container{
+    margin-top: 200px;
+}
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
